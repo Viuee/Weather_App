@@ -1,0 +1,12 @@
+.app{
+    height: 90vh;
+    width: 70vw;
+    border-radius: 2rem;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: #2d2d2d; */
+}
